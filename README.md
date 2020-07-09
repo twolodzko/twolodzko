@@ -1,6 +1,6 @@
 ### Tymoteusz Wołodźko
 
-Data scientist and developer. Currently I'm helping [GreenSteam.com](https://greensteam.com) with building and deploying machine learning models to make marine industry more 🌿 and fuel efficient.
+Data scientist and developer. Currently helping [GreenSteam.com](https://greensteam.com) with building and deploying machine learning models to make marine industry more 🌿 and fuel efficient.
 
 
 <!--
