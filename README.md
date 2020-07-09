@@ -1,4 +1,7 @@
-### Hi there 👋
+### Tymoteusz Wołodźko
+
+Data scientist and developer. Currently I'm helping [GreenSteam.com](https://greensteam.com) with building and deploying machine learning models to make marine industry more 🌿 and fuel efficient.
+
 
 <!--
 **twolodzko/twolodzko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
