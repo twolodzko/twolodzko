@@ -1,4 +1,4 @@
-Data scientist and developer. Currently helping [GreenSteam.com](https://greensteam.com) with building and deploying machine learning models to make marine industry more 🌿 and fuel efficient.
+Machine learning engineer and developer. Currently helping [GreenSteam.com](https://greensteam.com) with building and deploying machine learning models to make marine industry more 🌿 and fuel efficient.
 
 
 <!--
