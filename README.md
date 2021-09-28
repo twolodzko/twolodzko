@@ -1,4 +1,4 @@
-Machine learning engineer and developer @ ☁️.
+Machine learning engineer and developer.
 
 <!--
 **twolodzko/twolodzko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
