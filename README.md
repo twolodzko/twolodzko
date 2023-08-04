@@ -1,4 +1,4 @@
-Machine learning engineer and developer.
+Ace of all trades living somewhere at the intersection of software engineering, machine learning, and product management.
 
 <!--
 **twolodzko/twolodzko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
